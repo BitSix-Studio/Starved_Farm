@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: e97529bba5b7a154dbb342c7c7dca4cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -67581124070121281
+    second: MOVEISSALA (1)_0
+  - first:
+      213: 6308949061830819227
+    second: MOVEISSALA (1)_1
+  - first:
+      213: -5874270488208211173
+    second: MOVEISSALA (1)_2
+  - first:
+      213: -2655083078011872674
+    second: MOVEISSALA (1)_3
+  - first:
+      213: 7213437959182959547
+    second: MOVEISSALA (1)_4
+  - first:
+      213: 4625794937578007325
+    second: MOVEISSALA (1)_5
+  - first:
+      213: -4097699661496158450
+    second: MOVEISSALA (1)_6
+  - first:
+      213: -2574880867797749192
+    second: MOVEISSALA (1)_7
+  - first:
+      213: 9218296216834389528
+    second: MOVEISSALA (1)_8
+  - first:
+      213: -6442655664513414124
+    second: MOVEISSALA (1)_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MOVEISSALA (1)_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 31
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4935477, y: 0.9039822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9db578deb3ed8750800000000000000
+      internalID: 6308949061830819227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOVEISSALA (1)_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 35
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5898331, y: 0.34338298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b130acb3d166a7ea0800000000000000
+      internalID: -5874270488208211173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOVEISSALA (1)_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 36
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a93fdf100472bd0800000000000000
+      internalID: -2655083078011872674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOVEISSALA (1)_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 35
+        width: 30
+        height: 43
+      alignment: 9
+      pivot: {x: 0.29787546, y: 0.4138228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb34b6efa974b1460800000000000000
+      internalID: 7213437959182959547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOVEISSALA (1)_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 30
+        height: 79
+      alignment: 9
+      pivot: {x: 0.496256, y: 0.7913889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b232abcff123040800000000000000
+      internalID: 4625794937578007325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOVEISSALA (1)_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 31
+        width: 24
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4812838, y: 0.1631259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0778405edb0227c0800000000000000
+      internalID: -4097699661496158450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOVEISSALA (1)_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 31
+        width: 24
+        height: 42
+      alignment: 9
+      pivot: {x: 0.523393, y: 0.096285775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83237f73e7f244cd0800000000000000
+      internalID: -2574880867797749192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOVEISSALA (1)_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816bdbe8197fdef70800000000000000
+      internalID: 9218296216834389528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOVEISSALA (1)_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.57486063, y: 0.21125071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c058acec61796a0800000000000000
+      internalID: -6442655664513414124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8d3e207fac2bbc94e9ad39a0b07a9bdd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MOVEISSALA (1)_1: 6308949061830819227
+      MOVEISSALA (1)_2: -5874270488208211173
+      MOVEISSALA (1)_3: -2655083078011872674
+      MOVEISSALA (1)_4: 7213437959182959547
+      MOVEISSALA (1)_5: 4625794937578007325
+      MOVEISSALA (1)_6: -4097699661496158450
+      MOVEISSALA (1)_7: -2574880867797749192
+      MOVEISSALA (1)_8: 9218296216834389528
+      MOVEISSALA (1)_9: -6442655664513414124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 5899c74226e9e3b46aa8482c11b7e61d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5061675918741796422
+    second: quartomareen com sombra)_0
+  - first:
+      213: -2082281801706379291
+    second: quartomareen com sombra)_1
+  - first:
+      213: 2842504797601963282
+    second: quartomareen com sombra)_2
+  - first:
+      213: 3425029475601037037
+    second: quartomareen com sombra)_3
+  - first:
+      213: 9053977599173016269
+    second: quartomareen com sombra)_4
+  - first:
+      213: 223236742466675567
+    second: quartomareen com sombra)_5
+  - first:
+      213: -3138532652724111070
+    second: quartomareen com sombra)_6
+  - first:
+      213: -2745299079093381763
+    second: quartomareen com sombra)_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: quartomareen com sombra)_0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 32
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5037842, y: 0.17734222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab90f3fd19051c9b0800000000000000
+      internalID: -5061675918741796422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quartomareen com sombra)_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 9
+        width: 40
+        height: 58
+      alignment: 9
+      pivot: {x: 0.50816095, y: 0.49212036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7386361ef82dd0848a1f2aa3000751aa
+      internalID: -1143274068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quartomareen com sombra)_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 12
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.50837505, y: 0.47715932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bbbd9d6a7239543a3e079caba3841b
+      internalID: -978083232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quartomareen com sombra)_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821bdddc30a18fa45b715da172f6d4e0
+      internalID: 1422219861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quartomareen com sombra)_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 10
+        width: 20
+        height: 39
+      alignment: 9
+      pivot: {x: 0.47299042, y: 0.5761679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67faad9be767e1042a72f9b8090cafe9
+      internalID: -1119851990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quartomareen com sombra)_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 16
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5177343, y: 0.10271633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0801b6252f724a489a95bac19309d00
+      internalID: 1585603762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quartomareen com sombra)_37
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 16
+        width: 23
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5094339, y: 0.12509257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3144d356b46738a4aa9da521f98bd365
+      internalID: -758679823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8fa7d6b500cb0144aa82069993f3125f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      quartomareen com sombra)_0: -5061675918741796422
+      quartomareen com sombra)_1: -2082281801706379291
+      quartomareen com sombra)_10: -535410496
+      quartomareen com sombra)_11: 1074272076
+      quartomareen com sombra)_12: -2039587289
+      quartomareen com sombra)_13: 1968681255
+      quartomareen com sombra)_14: 700849119
+      quartomareen com sombra)_15: 162737589
+      quartomareen com sombra)_16: -339638711
+      quartomareen com sombra)_17: -978083232
+      quartomareen com sombra)_18: -1013164966
+      quartomareen com sombra)_19: -104035212
+      quartomareen com sombra)_2: 2842504797601963282
+      quartomareen com sombra)_20: -625124552
+      quartomareen com sombra)_21: 1566210709
+      quartomareen com sombra)_22: 1525775834
+      quartomareen com sombra)_23: -2039075364
+      quartomareen com sombra)_24: -595462782
+      quartomareen com sombra)_25: -63367741
+      quartomareen com sombra)_26: 1422219861
+      quartomareen com sombra)_27: 1548093701
+      quartomareen com sombra)_28: 240683790
+      quartomareen com sombra)_29: 804522777
+      quartomareen com sombra)_3: 3425029475601037037
+      quartomareen com sombra)_30: 1770339699
+      quartomareen com sombra)_31: -1119851990
+      quartomareen com sombra)_32: 508531423
+      quartomareen com sombra)_33: 1585603762
+      quartomareen com sombra)_34: -102194477
+      quartomareen com sombra)_35: 678347904
+      quartomareen com sombra)_36: -1880653948
+      quartomareen com sombra)_37: -758679823
+      quartomareen com sombra)_38: 1593625900
+      quartomareen com sombra)_39: -2003195478
+      quartomareen com sombra)_4: 9053977599173016269
+      quartomareen com sombra)_40: 428911496
+      quartomareen com sombra)_41: -1405614727
+      quartomareen com sombra)_42: 723205815
+      quartomareen com sombra)_43: -996451043
+      quartomareen com sombra)_44: 2033805559
+      quartomareen com sombra)_45: -430364817
+      quartomareen com sombra)_46: -1600482972
+      quartomareen com sombra)_47: -79601609
+      quartomareen com sombra)_48: 1210661611
+      quartomareen com sombra)_49: 1810442887
+      quartomareen com sombra)_5: 223236742466675567
+      quartomareen com sombra)_50: -2035813949
+      quartomareen com sombra)_51: 1354498589
+      quartomareen com sombra)_52: 687249277
+      quartomareen com sombra)_53: -672527345
+      quartomareen com sombra)_54: -1648135562
+      quartomareen com sombra)_55: 1586164171
+      quartomareen com sombra)_56: -73376451
+      quartomareen com sombra)_57: -788785910
+      quartomareen com sombra)_58: -672878931
+      quartomareen com sombra)_59: 2001665658
+      quartomareen com sombra)_6: -3138532652724111070
+      quartomareen com sombra)_60: 663156995
+      quartomareen com sombra)_61: 227261088
+      quartomareen com sombra)_62: -1689203896
+      quartomareen com sombra)_63: 1856199315
+      quartomareen com sombra)_64: 486282249
+      quartomareen com sombra)_65: 1923589813
+      quartomareen com sombra)_66: 731631821
+      quartomareen com sombra)_7: -2745299079093381763
+      quartomareen com sombra)_8: 745265253
+      quartomareen com sombra)_9: -1143274068
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

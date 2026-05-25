@@ -1,0 +1,707 @@
+fileFormatVersion: 2
+guid: 24c9c8e5febdb3d4db792a294ff19281
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1810232341914196999
+    second: Fazenda sprite sheetNova_0
+  - first:
+      213: -3057597037622356650
+    second: Fazenda sprite sheetNova_1
+  - first:
+      213: -1772552141326969457
+    second: Fazenda sprite sheetNova_2
+  - first:
+      213: 6837128880521265636
+    second: Fazenda sprite sheetNova_3
+  - first:
+      213: 2768531519333785270
+    second: Fazenda sprite sheetNova_4
+  - first:
+      213: -4128626070310261322
+    second: Fazenda sprite sheetNova_5
+  - first:
+      213: -2139724921462577454
+    second: Fazenda sprite sheetNova_6
+  - first:
+      213: -5812224226121566493
+    second: Fazenda sprite sheetNova_7
+  - first:
+      213: 52621108854563971
+    second: Fazenda sprite sheetNova_8
+  - first:
+      213: -4180032430891486170
+    second: Fazenda sprite sheetNova_9
+  - first:
+      213: 206350137669735300
+    second: Fazenda sprite sheetNova_10
+  - first:
+      213: 2192638464906452350
+    second: Fazenda sprite sheetNova_11
+  - first:
+      213: 41117643457147463
+    second: Fazenda sprite sheetNova_12
+  - first:
+      213: 6787995633175383870
+    second: Fazenda sprite sheetNova_13
+  - first:
+      213: -5941933170268452811
+    second: Fazenda sprite sheetNova_14
+  - first:
+      213: -2008485634506748047
+    second: Fazenda sprite sheetNova_15
+  - first:
+      213: -4637399862033195126
+    second: Fazenda sprite sheetNova_16
+  - first:
+      213: 3180904269027560798
+    second: Fazenda sprite sheetNova_17
+  - first:
+      213: -5902184289499263467
+    second: Fazenda sprite sheetNova_18
+  - first:
+      213: -4967234301612100324
+    second: Fazenda sprite sheetNova_19
+  - first:
+      213: -3840785275612590536
+    second: Fazenda sprite sheetNova_20
+  - first:
+      213: 7647682860101915000
+    second: Fazenda sprite sheetNova_21
+  - first:
+      213: 6851612090430460449
+    second: Fazenda sprite sheetNova_22
+  - first:
+      213: -2223217439088294644
+    second: Fazenda sprite sheetNova_23
+  - first:
+      213: 2822620948755094332
+    second: Fazenda sprite sheetNova_24
+  - first:
+      213: -7603969015765262918
+    second: Fazenda sprite sheetNova_25
+  - first:
+      213: 4649467476625733404
+    second: Fazenda sprite sheetNova_26
+  - first:
+      213: -2937281090897629923
+    second: Fazenda sprite sheetNova_27
+  - first:
+      213: -5640293925450935882
+    second: Fazenda sprite sheetNova_28
+  - first:
+      213: 6791337751971323087
+    second: Fazenda sprite sheetNova_29
+  - first:
+      213: 7400567734148417279
+    second: Fazenda sprite sheetNova_30
+  - first:
+      213: 6375971385636755491
+    second: Fazenda sprite sheetNova_31
+  - first:
+      213: -7251001604485175068
+    second: Fazenda sprite sheetNova_32
+  - first:
+      213: 6851408001558409999
+    second: Fazenda sprite sheetNova_33
+  - first:
+      213: 3645359491223757080
+    second: Fazenda sprite sheetNova_34
+  - first:
+      213: -2068415948421786585
+    second: Fazenda sprite sheetNova_35
+  - first:
+      213: -4498882891027367071
+    second: Fazenda sprite sheetNova_36
+  - first:
+      213: 4425099369360604354
+    second: Fazenda sprite sheetNova_37
+  - first:
+      213: -6742716123898695508
+    second: Fazenda sprite sheetNova_38
+  - first:
+      213: -3618280883849805107
+    second: Fazenda sprite sheetNova_39
+  - first:
+      213: -2307925014970364474
+    second: Fazenda sprite sheetNova_40
+  - first:
+      213: 78655125355491015
+    second: Fazenda sprite sheetNova_41
+  - first:
+      213: 5993138832513363136
+    second: Fazenda sprite sheetNova_42
+  - first:
+      213: 6840230479718152861
+    second: Fazenda sprite sheetNova_43
+  - first:
+      213: 565072088778039902
+    second: Fazenda sprite sheetNova_44
+  - first:
+      213: -2180968835796528386
+    second: Fazenda sprite sheetNova_45
+  - first:
+      213: 5554336598211406282
+    second: Fazenda sprite sheetNova_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 609
+        width: 313
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3e74ba643c0e6e0800000000000000
+      internalID: -1810232341914196999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 614
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd1c3cb776497690800000000000000
+      internalID: -7603969015765262918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_26
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 611
+        width: 49
+        height: 29
+      alignment: 9
+      pivot: {x: 0.49940833, y: 0.118885964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17320b390a368040800000000000000
+      internalID: 4649467476625733404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 433
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f037820f647151f50800000000000000
+      internalID: 6851408001558409999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_34
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 533
+        width: 112
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811adf0b42be69230800000000000000
+      internalID: 3645359491223757080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 295
+        height: 76
+      alignment: 9
+      pivot: {x: 0.50035834, y: 0.05125909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724119267a28b43e0800000000000000
+      internalID: -2068415948421786585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_36
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 391
+        width: 18
+        height: 58
+      alignment: 9
+      pivot: {x: 0.489446, y: 0.036619514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b3b32c8d1c091c0800000000000000
+      internalID: -4498882891027367071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 414
+        width: 106
+        height: 99
+      alignment: 9
+      pivot: {x: 0.98990965, y: 0.99120295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc3b866e6c196d30800000000000000
+      internalID: 4425099369360604354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 33
+        height: 28
+      alignment: 9
+      pivot: {x: 0.49817786, y: 0.13925062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca038b5e86f0d62a0800000000000000
+      internalID: -6742716123898695508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 261
+        width: 65
+        height: 28
+      alignment: 9
+      pivot: {x: 0.49754944, y: 0.17571367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd04724d6a98ffd0800000000000000
+      internalID: -2307925014970364474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 260
+        width: 15
+        height: 29
+      alignment: 9
+      pivot: {x: 0.50584817, y: 0.7636151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cee3967b60771100800000000000000
+      internalID: 78655125355491015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 282
+        width: 160
+        height: 103
+      alignment: 9
+      pivot: {x: 0.51505053, y: 0.025201594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccee81e308eb2350800000000000000
+      internalID: 5993138832513363136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 228
+        width: 65
+        height: 28
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.19038446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a766551616dee50800000000000000
+      internalID: 6840230479718152861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_44
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 223
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6594045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e526a14221a87d700800000000000000
+      internalID: 565072088778039902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 196
+        width: 65
+        height: 29
+      alignment: 9
+      pivot: {x: 0.50128293, y: 0.20393582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2962c2664abb1e0800000000000000
+      internalID: -2180968835796528386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_46
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1
+        width: 492
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9a75b35b7f41d40800000000000000
+      internalID: 5554336598211406282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 405
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.013625082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d74499a56ea1e438fb369736cb5638
+      internalID: -2032137664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazenda sprite sheetNova_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 314
+        width: 21
+        height: 76
+      alignment: 9
+      pivot: {x: 0.50595963, y: 0.24802238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d385ee8e174eb4a8023d9fc2e3d29d
+      internalID: -3057597037622356650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 436456708f9e3f14ea722695235188bb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fazenda sprite sheetNova_0: -1810232341914196999
+      Fazenda sprite sheetNova_1: -3057597037622356650
+      Fazenda sprite sheetNova_10: -1772552141326969457
+      Fazenda sprite sheetNova_11: 6837128880521265636
+      Fazenda sprite sheetNova_12: 2768531519333785270
+      Fazenda sprite sheetNova_13: -4128626070310261322
+      Fazenda sprite sheetNova_14: -2139724921462577454
+      Fazenda sprite sheetNova_15: -5812224226121566493
+      Fazenda sprite sheetNova_16: 52621108854563971
+      Fazenda sprite sheetNova_17: -4180032430891486170
+      Fazenda sprite sheetNova_18: 206350137669735300
+      Fazenda sprite sheetNova_19: 2192638464906452350
+      Fazenda sprite sheetNova_2: 41117643457147463
+      Fazenda sprite sheetNova_20: 6787995633175383870
+      Fazenda sprite sheetNova_21: -5941933170268452811
+      Fazenda sprite sheetNova_22: -2008485634506748047
+      Fazenda sprite sheetNova_23: -4637399862033195126
+      Fazenda sprite sheetNova_24: 3180904269027560798
+      Fazenda sprite sheetNova_25: -5902184289499263467
+      Fazenda sprite sheetNova_26: -4967234301612100324
+      Fazenda sprite sheetNova_27: -3840785275612590536
+      Fazenda sprite sheetNova_28: 7647682860101915000
+      Fazenda sprite sheetNova_29: 6851612090430460449
+      Fazenda sprite sheetNova_3: -2223217439088294644
+      Fazenda sprite sheetNova_30: 2822620948755094332
+      Fazenda sprite sheetNova_31: -7603969015765262918
+      Fazenda sprite sheetNova_32: 4649467476625733404
+      Fazenda sprite sheetNova_33: -2937281090897629923
+      Fazenda sprite sheetNova_34: -5640293925450935882
+      Fazenda sprite sheetNova_35: 6791337751971323087
+      Fazenda sprite sheetNova_36: 7400567734148417279
+      Fazenda sprite sheetNova_37: 6375971385636755491
+      Fazenda sprite sheetNova_38: -7251001604485175068
+      Fazenda sprite sheetNova_39: 6851408001558409999
+      Fazenda sprite sheetNova_4: 3645359491223757080
+      Fazenda sprite sheetNova_40: -2068415948421786585
+      Fazenda sprite sheetNova_41: -4498882891027367071
+      Fazenda sprite sheetNova_42: 4425099369360604354
+      Fazenda sprite sheetNova_43: -6742716123898695508
+      Fazenda sprite sheetNova_44: -3618280883849805107
+      Fazenda sprite sheetNova_45: -2307925014970364474
+      Fazenda sprite sheetNova_46: 78655125355491015
+      Fazenda sprite sheetNova_47: 5993138832513363136
+      Fazenda sprite sheetNova_5: 6840230479718152861
+      Fazenda sprite sheetNova_6: 565072088778039902
+      Fazenda sprite sheetNova_7: -2180968835796528386
+      Fazenda sprite sheetNova_8: 5554336598211406282
+      Fazenda sprite sheetNova_9: -2032137664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

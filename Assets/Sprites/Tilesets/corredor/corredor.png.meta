@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 3e2ad4f76c4d7ab4b85c962732c1b1ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2675134731093273740
+    second: corredor_0
+  - first:
+      213: 3944343790045940389
+    second: corredor_1
+  - first:
+      213: -4528538992597965156
+    second: corredor_2
+  - first:
+      213: -3056854690660415486
+    second: corredor_3
+  - first:
+      213: 7943701775610087745
+    second: corredor_4
+  - first:
+      213: 160849484522579187
+    second: corredor_5
+  - first:
+      213: -3071593777049985249
+    second: corredor_6
+  - first:
+      213: 4179463953749634012
+    second: corredor_7
+  - first:
+      213: -4976806387874493923
+    second: corredor_8
+  - first:
+      213: -4529006319313488743
+    second: corredor_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: corredor_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 110
+        width: 96
+        height: 82
+      alignment: 9
+      pivot: {x: 0.7114455, y: 0.46518874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c10ce714ae96843ac670d5c53e7ee9
+      internalID: -1956326980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 96
+        width: 93
+        height: 96
+      alignment: 9
+      pivot: {x: 0.50240713, y: 0.53264505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ac731f4c864ae45b46abdba7a281c9
+      internalID: -1877705213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 83
+        height: 100
+      alignment: 9
+      pivot: {x: 0.092746705, y: 0.24928284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8825581b6ea9bb642b570dbc699e18b9
+      internalID: -1166201438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 9
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4dc085a0bb86e4eab83578735fdde7
+      internalID: -300048307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf7c320cf5918140bb5f4873b0e5b34
+      internalID: 1290177099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd91630bc1bea74cbdc8780443770ba
+      internalID: 1808845502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1389f2f72aed3cb4e9375c836152e4f1
+      internalID: -579938817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8965f90ae7cf7b74fa1e586776fcabec
+      internalID: 584086986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caa26a3d768c4749b6d10f4e58484e2
+      internalID: -1994097642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ea82df42683b44ab55e46c6df8aecb
+      internalID: -1558258535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_65
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bd11cad5ffd024f8b7f0c8ea54e0c6
+      internalID: 156508148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceb17d5c78bf8d4a822bab86563d42d
+      internalID: 190089900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 12
+        width: 16
+        height: 36
+      alignment: 9
+      pivot: {x: 0.47012806, y: 0.30289853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a62620344ea2f47acd58b6579fce92
+      internalID: -1578265972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corredor_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bbeccc567e81c44b12565c9dc65585
+      internalID: -101396387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3274b391563327849a26e091f7a8b46f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      corredor_0: -2675134731093273740
+      corredor_1: 3944343790045940389
+      corredor_10: -1139582711
+      corredor_11: -1956326980
+      corredor_12: -1022235696
+      corredor_13: 728631553
+      corredor_14: -951735227
+      corredor_15: -600055852
+      corredor_16: -738053268
+      corredor_17: 932916961
+      corredor_18: -1877705213
+      corredor_19: 1033488877
+      corredor_2: -4528538992597965156
+      corredor_20: -1965569815
+      corredor_21: -384100401
+      corredor_22: -513789539
+      corredor_23: -806899085
+      corredor_24: -2113153139
+      corredor_25: -1148164210
+      corredor_26: -1166201438
+      corredor_27: 1041317353
+      corredor_28: -1534272302
+      corredor_29: -1248330101
+      corredor_3: -3056854690660415486
+      corredor_30: -1910292421
+      corredor_31: -1248669282
+      corredor_32: 26189560
+      corredor_33: 762132758
+      corredor_34: 1590504614
+      corredor_35: -505962276
+      corredor_36: -691485911
+      corredor_37: -2105205511
+      corredor_38: 1204657415
+      corredor_39: -1430078317
+      corredor_4: 7943701775610087745
+      corredor_40: -331990987
+      corredor_41: -870547558
+      corredor_42: -1567464933
+      corredor_43: 192521433
+      corredor_44: 818477395
+      corredor_45: -1492001721
+      corredor_46: 1864275759
+      corredor_47: -295575304
+      corredor_48: 804875402
+      corredor_49: -1994253704
+      corredor_5: 160849484522579187
+      corredor_50: -336074897
+      corredor_51: -1641424794
+      corredor_52: -317523412
+      corredor_53: -300048307
+      corredor_54: -76185313
+      corredor_55: -608623987
+      corredor_56: 1290177099
+      corredor_57: 1808845502
+      corredor_58: -579938817
+      corredor_59: 584086986
+      corredor_6: -3071593777049985249
+      corredor_60: 915729754
+      corredor_61: -1324983427
+      corredor_62: -1174119155
+      corredor_63: -1994097642
+      corredor_64: -1558258535
+      corredor_65: 156508148
+      corredor_66: -1816661392
+      corredor_67: -1769547756
+      corredor_68: 401019079
+      corredor_69: 190089900
+      corredor_7: 4179463953749634012
+      corredor_70: -1578265972
+      corredor_71: 270038098
+      corredor_72: -1719381878
+      corredor_73: -1128365969
+      corredor_74: -101396387
+      corredor_75: 1386422135
+      corredor_76: 1971566140
+      corredor_77: 245102167
+      corredor_78: -619916652
+      corredor_79: 796130939
+      corredor_8: -4976806387874493923
+      corredor_80: 1700918377
+      corredor_81: 476186206
+      corredor_82: 715964449
+      corredor_9: -4529006319313488743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
